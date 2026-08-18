@@ -1,0 +1,3 @@
+from .multitask import DispatchMultiTaskModel
+from .independent_multitask import IndependentHeadsMultiTaskModel
+from .multitask_simple import SimpleMultiTaskModel
