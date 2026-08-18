@@ -2,6 +2,8 @@
 
 This project explores text classification for emergency-call transcripts. A shared DeBERTa encoder predicts the incident category, urgency level, and which response teams may be needed.
 
+The project paper covers the implementation details and results [here](https://www.joshiarun.com/emergency_dispatch.pdf)
+
 ## What is included
 
 - audio transcription and transcript cleanup
